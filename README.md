@@ -1,8 +1,12 @@
-<h1 align="center">Hi 👋, I'm Varun Sammal</h1>
+<!-- Animated Banner -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Varun+Sammal;Full+Stack+Developer+from+India+🇮🇳;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+</p>
+
 <h3 align="center">A passionate Full Stack Developer from India 🇮🇳</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hackstreetboys11&label=Profile%20views&color=0e75b6&style=flat" alt="hackstreetboys11" /> 
+  <img src="https://komarev.com/ghpvc/?username=HackStreetBoy11&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 ---
@@ -50,16 +54,31 @@
 
 ---
 
-### 📊 GitHub Stats
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hackstreetboys11&show_icons=true&locale=en&layout=compact" alt="hackstreetboys11" /></p>
+### 🕹️ Fun Animated Section
+<p align="center">
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="400" alt="Pac-Man Animation" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hackstreetboys11&show_icons=true&locale=en" alt="hackstreetboys11" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hackstreetboys11&" alt="hackstreetboys11" /></p>
+<p align="center">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="400" alt="Coding Animation" />
+</p>
 
 ---
 
-### 🐍 Watch my contribution graph get eaten by the snake  
+### 📊 GitHub Stats
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=HackStreetBoy11&show_icons=true&locale=en&layout=compact" alt="HackStreetBoy11" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=HackStreetBoy11&show_icons=true&locale=en" alt="HackStreetBoy11" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=HackStreetBoy11&" alt="HackStreetBoy11" /></p>
+
+---
+
+### 🐍 Watch my contribution graph get eaten by the Snake
 <p align="center">
-  <img src="https://raw.githubusercontent.com/hackstreetboys11/hackstreetboys11/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/HackStreetBoy11/HackStreetBoy11/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
+
+---
+
+⭐️ From [HackStreetBoy11](https://github.com/HackStreetBoy11)
