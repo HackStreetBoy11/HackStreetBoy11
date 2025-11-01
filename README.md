@@ -77,7 +77,7 @@
 
 ### 🐍 Watch my contribution graph get eaten by the Snake
 <p align="center">
-  <img src="https://raw.githubusercontent.com/HackStreetBoy11/HackStreetBoy11/output/github-contribution-grid-snake.svg" alt="snake animation" />
+ <img src="https://github.com/HackStreetBoy11/HackStreetBoy11/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
 ---
