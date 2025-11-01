@@ -1,7 +1,8 @@
 <!-- Animated Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Varun+Sammal;Full+Stack+Developer+from+India+🇮🇳;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Varun+Sammal;Full+Stack+Developer+from+India+🇮🇳;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
 </p>
+
 
 <h3 align="center">A passionate Full Stack Developer from India 🇮🇳</h3>
 
