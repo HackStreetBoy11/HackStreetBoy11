@@ -57,11 +57,15 @@
 
 ### 🕹️ Fun Animated Section
 <p align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="400" alt="Pac-Man Animation" />
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="400" alt="Coding Cat" />
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="400" alt="Coding Animation" />
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmE5cWQ4bzlkNGZnN3A0OHhwZ3h6OTF2aHF1bXd2MmpqbHBtcmVpeiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Cartoon Coding" />
+</p>
+
+<p align="center">
+  <em>"While the world sleeps... I code ✨💻"</em>
 </p>
 
 ---
@@ -75,9 +79,18 @@
 
 ---
 
-### 🐍 Watch my contribution graph get eaten by the Snake
+### 📈 My GitHub Activity Graph
 <p align="center">
- <img src="https://github.com/HackStreetBoy11/HackStreetBoy11/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HackStreetBoy11&theme=react-dark&bg_color=0d1117&hide_border=true&line=00C2FF&color=00C2FF" width="100%"/>
+</p>
+
+---
+
+### 🎉 Keep Coding & Stay Awesome!
+<p align="center">
+  <img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="400" alt="Keep Coding" />
+  <br><br>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!;Keep+Coding+💻;Stay+Curious+%26+Creative+✨" alt="Thank You Animation" />
 </p>
 
 ---
